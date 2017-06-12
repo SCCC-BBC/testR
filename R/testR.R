@@ -9,5 +9,5 @@
 #'
 testR <- function() {
   cat("hello world\nn")
-  cat("some update")
+  cat("some updategg")
 }
